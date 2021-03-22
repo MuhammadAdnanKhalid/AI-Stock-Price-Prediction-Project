@@ -1,1 +1,1 @@
-# AI-Stock-Price-Prediction-Project
+# Stock Price Prediction using LSTM
